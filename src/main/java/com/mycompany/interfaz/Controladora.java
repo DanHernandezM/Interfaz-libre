@@ -12,6 +12,6 @@ public class Controladora {
     public static void main(String[] args) {
         // eso es todo? PUES SI por fa denme de baja
       Interfaz buzon = new Interfaz();
-        buzon.setVisible(true);
+        buzon.setVisible(true); // si le pones false explotas
     }    
 }
